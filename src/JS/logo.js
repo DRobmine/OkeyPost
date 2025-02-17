@@ -1,0 +1,120 @@
+const logo = [
+    {
+        img:'/logo/logo2.png',
+        title:'H&M'
+    },
+    {
+        img:'/logo/logo3.png',
+        title:'Mangooutlet'
+    },
+    {
+        img:'/logo/logo4.png',
+        title:'Next'
+    },
+    {
+        img:'/logo/logo5.png',
+        title:'Sportdirect'
+    },
+    {
+        img:'/logo/logo6.png',
+        title:'Clothing at Tesco'
+    },
+    {
+        img:'/logo/logo7.png',
+        title:'George at ASDA'
+    },
+    {
+        img:'/logo/logo8.png',
+        title:'Accessorize'
+    },
+    {
+        img:'/logo/logo9.png',
+        title:'Adidas UK'
+    },
+    {
+        img:'/logo/logo10.png',
+        title:'Amazon'
+    },
+    {
+        img:'/logo/logo11.png',
+        title:'ASOS'
+    },
+    {
+        img:'/logo/logo12.png',
+        title:'Boohoo'
+    },
+    {
+        img:'/logo/logo13.png',
+        title:'Crocs'
+    },
+    {
+        img:'/logo/logo14.png',
+        title:'Ebay'
+    },
+    {
+        img:'/logo/logo15.png',
+        title:'Matalan'
+    },
+    {
+        img:'/logo/logo16.png',
+        title:'Mothercare'
+    },
+    {
+        img:'/logo/logo17.png',
+        title:'New Look'
+    },
+    {
+        img:'/logo/logo18.png',
+        title:'Puma'
+    },
+    {
+        img:'/logo/logo19.png',
+        title:'Timberland'
+    },
+    {
+        img:'/logo/logo20.png',
+        title:'Showroomprive'
+    },
+    {
+        img:'/logo/logo21.png',
+        title:'Brand Alley'
+    },
+    {
+        img:'/logo/logo22.png',
+        title:'M&S'
+    },
+    {
+        img:'/logo/logo23.png',
+        title:'Clarks'
+    },
+    {
+        img:'/logo/logo24.png',
+        title:'Zara'
+    },
+    {
+        img:'/logo/logo25.png',
+        title:'Mango'
+    },
+    {
+        img:'/logo/logo26.png',
+        title:'Zulily'
+    },
+    {
+        img:'/logo/logo27.png',
+        title:'Panachekids'
+    },
+    {
+        img:'/logo/logo28.png',
+        title:'Betterware'
+    },
+    {
+        img:'/logo/logo29.png',
+        title:'Tucci Store'
+    },
+    {
+        img:'/logo/logo30.png',
+        title:'Mini Mode'
+    },
+]
+
+export default logo
