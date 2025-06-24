@@ -37,7 +37,7 @@ import Form from "./Form";
   return (
   <>
     <nav className="bg-white px-6 py-4 flex items-center justify-evenly">
-      <div><Link to={'/logo'}><img src="/Logo.svg" alt="" /></Link></div>
+      <div><Link to={'/'}><img src="/Logo.svg" alt="" /></Link></div>
       <div className="flex gap-6 items-center">
         <Link onClick={() => setShowModal(false)} to={'/pokupka'}>{t('navbar1')}</Link>
         <Link onClick={() => setShowModal(false)} to={'/rasprodaja'}>{t('navbar2')}</Link>

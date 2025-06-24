@@ -15,7 +15,7 @@ function App() {
     <>
       <Navbar/>
       <Routes>
-        <Route path='/logo' element={<Logo/>}/>
+        <Route path='/' element={<Logo/>}/>
         <Route path='/pokupka' element={<Pokupka/>}/>
         <Route path='/rasprodaja' element={<Rasprodaja/>}/>
         <Route path='/cost' element={<Cost/>}/>
